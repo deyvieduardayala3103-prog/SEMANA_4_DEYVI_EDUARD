@@ -1,0 +1,40 @@
+VERSIÓN CORREGIDA SIN IMÁGENES
+
+Se eliminó completamente:
+- Glide
+- import com.bumptech.glide.Glide
+- ImageView de los productos
+- campo thumbnail
+
+Se conserva:
+- Android 9.0 mínimo (API 28)
+- Retrofit
+- Gson
+- OkHttp
+- GET para consultar productos
+- POST para agregar productos
+- RecyclerView
+- tarjetas
+- precio destacado
+- categoría tipo Chip
+- traducción de categorías
+- botón VER DETALLE
+- acción al tocar la tarjeta
+- botón + AGREGAR PRODUCTO
+- validación de formulario
+- botón REINTENTAR
+- ProgressBar
+
+CÓMO COLOCARLO
+1. Descomprime el ZIP.
+2. Copia la carpeta app sobre la carpeta app de tu proyecto ConsultaProductosREST.
+3. Acepta reemplazar los archivos.
+4. Conserva la carpeta gradle/ y archivos raíz de tu proyecto actual.
+5. En Android Studio pulsa "Sync Now".
+6. Build > Rebuild Project.
+7. Ejecuta Run.
+
+IMPORTANTE:
+DummyJSON simula POST /products/add. El producto se verá agregado durante
+la ejecución, pero al volver a consultar desde el servidor no quedará guardado
+permanentemente.

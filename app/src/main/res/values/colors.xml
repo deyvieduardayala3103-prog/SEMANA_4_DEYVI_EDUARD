@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_principal">#1428BF</color>
+    <color name="azul_oscuro">#0E1C8C</color>
+    <color name="fondo_app">#F5F7FB</color>
+    <color name="texto_principal">#202124</color>
+    <color name="texto_secundario">#666666</color>
+    <color name="rojo_error">#C62828</color>
+    <color name="chip_fondo">#E9ECFF</color>
+</resources>

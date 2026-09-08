@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ConsultaProductosREST" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/azul_principal</item>
+        <item name="colorPrimaryVariant">@color/azul_oscuro</item>
+        <item name="colorSecondary">@color/azul_principal</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/fondo_app</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>

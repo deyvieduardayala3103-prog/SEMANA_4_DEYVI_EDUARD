@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConsultaProductosREST</string>
+    <string name="titulo_productos">PRODUCTOS REST</string>
+    <string name="subtitulo_productos">Productos obtenidos desde una API REST</string>
+    <string name="error_productos">No se pudieron cargar los productos</string>
+    <string name="reintentar">REINTENTAR</string>
+    <string name="agregar_producto">+ AGREGAR PRODUCTO</string>
+    <string name="ver_detalle">VER DETALLE</string>
+</resources>
